@@ -1,6 +1,6 @@
 # Chladni Plate Operator Learning Benchmark
 
-![Chladni Plate](ChladiniPlate.png)
+![Chladni Plate](Chladni_plate.jpg)
 
 
 This repository contains MATLAB code that generates a **forced Chladni plate** benchmark dataset for **operator learning**.
